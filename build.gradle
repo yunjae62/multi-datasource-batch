@@ -43,9 +43,6 @@ dependencies {
     // docker compose support
     developmentOnly 'org.springframework.boot:spring-boot-docker-compose'
 
-//    // mysql
-//    runtimeOnly 'com.mysql:mysql-connector-j'
-
     // postgresql
     runtimeOnly 'org.postgresql:postgresql'
 
