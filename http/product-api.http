@@ -1,0 +1,8 @@
+### 상품 생성
+POST http://localhost:8080/products
+Content-Type: application/json
+
+{
+  "name": "샘플1",
+  "price": 1000
+}
