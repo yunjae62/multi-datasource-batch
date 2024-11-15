@@ -30,6 +30,11 @@ spring:
       stop:
         command: down
         timeout: 1m
+      #  batch:
+      #    jdbc:
+      #      platform: postgresql
+      #      schema: classpath:org/springframework/batch/core/schema-postgresql.sql
+      #      initialize-schema: always
 
 management:
   endpoints:
