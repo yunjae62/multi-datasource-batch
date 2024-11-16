@@ -6,3 +6,6 @@ Content-Type: application/json
   "name": "샘플1",
   "price": 1000
 }
+
+### 상품 단건 조회
+GET http://localhost:8080/products/1
