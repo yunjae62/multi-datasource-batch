@@ -17,7 +17,7 @@ import org.springframework.transaction.PlatformTransactionManager;
 @RequiredArgsConstructor
 public class SimpleJob {
 
-    private static final String JOB_NAME = "simpleJob";
+    private static final String JOB_NAME = "simple_job";
 
     private final JobRepository jobRepository;
     private final PlatformTransactionManager transactionManager;
