@@ -1,4 +1,4 @@
-package ex.multisource.config;
+package ex.multisource.config.batch;
 
 import com.zaxxer.hikari.HikariDataSource;
 import javax.sql.DataSource;

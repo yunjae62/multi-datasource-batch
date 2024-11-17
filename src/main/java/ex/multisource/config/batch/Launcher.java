@@ -1,4 +1,4 @@
-package ex.multisource.batch;
+package ex.multisource.config.batch;
 
 import java.util.Map;
 import lombok.RequiredArgsConstructor;

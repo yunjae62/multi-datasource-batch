@@ -1,4 +1,4 @@
-package ex.multisource.batch;
+package ex.multisource.config.batch;
 
 import lombok.RequiredArgsConstructor;
 import lombok.extern.slf4j.Slf4j;
